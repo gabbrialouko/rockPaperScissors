@@ -3,8 +3,6 @@
 
 import random
 
-import random
-
 def main():
 
     again = 'y'
