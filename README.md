@@ -24,8 +24,6 @@ def main():
      print('The winner is COMPUTER')
      print(' Paper covers Rock')
 
-    
-
     again = input('Would you like to play again? (y = yes): ')
 
 main()
